@@ -1,2 +1,0 @@
-# anits
-fdp on programming 
